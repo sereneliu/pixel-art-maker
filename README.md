@@ -2,7 +2,7 @@
 
 ## About
 
-Used JQuery to create this Udacity Front-End Nanodegree project.
+Used JQuery to create this Udacity Front-End Nanodegree project. Check it out [here](https://sereneliu.github.io/pixel-art-maker/)!
 
 ## Instructions
 

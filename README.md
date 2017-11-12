@@ -1,16 +1,16 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## About
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Used JQuery to create this Udacity Front-End Nanodegree project.
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+1. Choose the size of your grid. _The max for both width and height is 1,000._
+2. Choose a color.
+3. Click on any cell to fill it with the chosen color.
+4. Repeat steps #2 & #3 with as many different colors as you like.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## Resources
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Created using [starter code](https://github.com/udacity/project-pixel-art-maker-starter) from Udacity.
